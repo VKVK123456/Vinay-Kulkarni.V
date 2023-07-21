@@ -1,13 +1,31 @@
 <h1>Hi, I'm Vinay Kulkarni V! <br/><a href="https://github.com/VKVK123456">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Student</a></h1>
 
+<h2>Programming Languages</h2>
+<ul>
+  <li>Python</li>
+  <li>Java</li>
+  <li>c</li>
+  <li>c++</li>
+  <li>PHP</li>
+</ul>
+<h2>Front-End Languages</h2>
+<ul>
+  <li>Html</li>
+  <li>css</li>
+  <li>javascript</li>
+</ul>
+<h2>Backend database</h2>
+<ul>
+  <li>Mysql</li>
+</ul>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Online grocery shopping system</b>
-  - [Praciting DS & Algos in Python](https://github.com/VKVK123456/VKPRGROCERYSHOPPINGSYSTEM.git)
-- <bBanking management system</b>
-  - [Banking management system](https://github.com/VKVK123456/VKPRBANKINGMANAGEMENTSYSTEM.git)
+  - [Online grocery shopping system using python flask](https://github.com/VKVK123456/VKPRGROCERYSHOPPINGSYSTEM.git)
+- <b>Banking management system</b>
+  - [Banking management system using python tkinter interface](https://github.com/VKVK123456/VKPRBANKINGMANAGEMENTSYSTEM.git)
 - <b>Pack Your Bags</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/VKVK123456/VKPRBANKINGMANAGEMENTSYSTEM.git)
+  - [Pack your bags android application)](https://github.com/VKVK123456/VKPRBANKINGMANAGEMENTSYSTEM.git)
 
 
 <h2> 🤳 Connect with me:</h2>
