@@ -1,5 +1,5 @@
 <h1>Hi, I'm Vinay Kulkarni V! <br/>
-  <p>Student at vemana institute of technology</p><br/><a href="https://github.com/VKVK123456">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Student</a></h1>
+  <p>Student at vemana institute of technology</p><a href="https://github.com/VKVK123456">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Student</a></h1>
 
 <h2>Programming Languages</h2>
 <ul>
